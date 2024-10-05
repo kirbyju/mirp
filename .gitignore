@@ -16,3 +16,6 @@ test/data/configuration_files/settings.xml
 /docs_source/source/sts_images
 /prof
 /docs_source/source/chest_ct
+/venv-mirp
+.DS_Store
+/docs/.ipynb_checkpoints
